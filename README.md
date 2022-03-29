@@ -1,1 +1,1 @@
-# trivia_pokemon_js.github.io
+# trivia_pokemon_js
